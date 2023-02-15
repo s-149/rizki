@@ -1,0 +1,22 @@
+.gambar {
+    border-radius: 100px;
+    height: 90px;
+    width: 90px;
+    padding: 10px;
+}
+
+.posisi {
+	float:right;
+	position:fixed;
+}
+
+.ukuran {
+	height:50px;
+	width:100%;
+	
+}
+.ukuran_min {
+	height:50px;
+	width:20%;
+	
+}
